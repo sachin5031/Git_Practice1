@@ -1,0 +1,2 @@
+This is New file created in repository
+Pulls from repo to local using git pull method
